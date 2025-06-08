@@ -1,4 +1,5 @@
 FROM adoptopenjdk/openjdk11 
+MAINTAINER Aiswarya
         
 EXPOSE 8080
  
